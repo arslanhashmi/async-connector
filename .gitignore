@@ -1,1 +1,2 @@
-downloads/*.txt
+*.txt
+!requirments.txt
